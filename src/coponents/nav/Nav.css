@@ -1,4 +1,4 @@
-header {
+header.NavHeader {
 	position: fixed;
 	top: 0;
 	height: 50px;
@@ -7,13 +7,13 @@ header {
 	justify-content: space-between;
 	padding: 10px 20px;
 }
-header h1 {
+header.NavHeader h1 {
 	font-size: 25px;
 }
-header nav ul {
+header.NavHeader nav ul {
 	display: flex;
 	gap: 10px;
 }
-header nav ul li:hover {
+header.NavHeader nav ul li:hover {
 	scale: 1.1;
 }

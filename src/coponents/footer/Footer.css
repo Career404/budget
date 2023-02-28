@@ -1,0 +1,11 @@
+.Footer {
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+.Footer a {
+	transform: scale(1.5);
+}
+.Footer a:hover {
+	scale: 1.2;
+}

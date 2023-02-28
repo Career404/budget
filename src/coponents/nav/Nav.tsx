@@ -7,7 +7,7 @@ type NavProps = {
 
 export default function Nav({ title, links }: NavProps) {
 	return (
-		<header>
+		<header className="NavHeader">
 			<h1>{title}</h1>
 			<nav>
 				<ul>
