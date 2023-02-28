@@ -1,0 +1,18 @@
+div.Hero {
+	margin: 0;
+	padding: 0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+div.Hero .Hero_Text {
+	text-shadow: 0 0 5px black;
+	text-align: center;
+	margin: 10px;
+}
+div.Hero .Hero_Text h2 {
+	font-size: 2em;
+}
+div.Hero .Hero_Text h3 {
+	font-size: 1.5em;
+}
